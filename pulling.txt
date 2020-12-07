@@ -1,0 +1,2 @@
+Push is the sending code to github.
+And pull is taking code from Github. To pull use the code "git pull origin master"
